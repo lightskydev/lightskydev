@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm lightskydev
 
-<!--
-**lightskydev/lightskydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beginner Developer | Learning Machine Learning
+Based in India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ What I'm Learning
+
+* Machine Learning (Linear Regression, Random Forest)
+* Python
+* Data Analysis
+
+---
+
+Tools I Use
+
+* Python
+* Jupyter Notebook
+* Git & GitHub
+
+---
+
+Projects
+
+* ML Model with 100% R² 
+* 
+
+---
+
+Contact Me
+
+* Email: [lightskydev@outlook.com](mailto:lightskydev@outlook.com)
